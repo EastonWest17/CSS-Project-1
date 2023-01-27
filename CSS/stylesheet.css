@@ -1,0 +1,196 @@
+body {
+    background-image: url(../assets/pokemontrainers.png);
+    background-size: 150px;
+    position:fixed;
+    width: 550px;
+    height: 500px;
+}
+
+div.container {
+    position:relative;
+    background-color: white;
+    width: 650px;
+    height: 315px;
+    top: 0px;
+    left: 425px;
+}
+
+div.Box1 {
+    position:absolute;
+    background-color: red;
+    width: 100%;
+    height: 50%;
+    top: 0px;
+    left: 0px;
+}
+
+div.explaination {
+    position: absolute;
+    font-size: 100%;
+    top: 177px;
+    left: 0px;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    
+}
+
+div.title {
+    position: absolute;
+    font-size: 200%;
+    top: 115px;
+    left: 0px;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    z-index: 8;
+    margin: 0px;
+}
+
+div.container2 {
+    position:relative;
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    top: 10px;
+    left: 70px;
+    border-style: double;
+}
+
+a {
+    color: black;
+}
+
+div.EthanSummers {
+    position:relative;
+    top: 30px;
+    left: 50px;
+}
+
+div.container3 {
+    position:absolute;
+    background-color: orange;
+    width: 250px;
+    height: 250px;
+    top: 10px;
+    left: 260px;
+    border-style: double;
+}
+
+div.HugoNelson {
+    position: relative;
+    font-size: 100%;
+    top: 50px; 
+    left: 0px;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+
+div.container4 {
+    position:relative;
+    background-color: purple;
+    width: 250px;
+    height: 250px;
+    top: -160px;
+    left: 260px;
+    border-style: double;
+}
+
+div.LilithGomez {
+    position: relative;
+    font-size: 100%;
+    top: 50px; 
+    left: 0px;
+    text-align: center;
+}
+
+div.container5 {
+    position:relative;
+    background-color: hotpink;
+    width: 250px;
+    height: 250px;
+    top: -125px;
+    left: 260px;
+    border-style: double;
+}
+
+div.AvaSummers {
+    position: relative;
+    font-size: 100%;
+    top: 50px; 
+    left: 0px;
+    text-align: center;
+}
+
+div.container6 {
+    position:relative;
+    background-color: orangered;
+    width: 250px;
+    height: 250px;
+    top: -160px;
+    left: 260px;
+    border-style: double;
+}
+
+div.JonGriffin {
+    position: relative;
+    font-size: 100%;
+    top: 50px; 
+    left: 0px;
+    text-align: center;
+}
+
+div.container7 {
+    position:absolute;
+    background-color: tan;
+    width: 250px;
+    height: 155px;
+    top: 260px;
+    left: -910px;
+    border-style: double;
+}
+
+div.MasonSilt {
+    position: absolute;
+    font-size: 100%;
+    top: 0px; 
+    left: 25px;
+    text-align: center;
+}
+
+div.container8 {
+    position:relative;
+    background-color: lime;
+    width: 250px;
+    height: 150px;
+    top: 10px;
+    left: 384px;
+    border-style: double;
+}
+
+div.IvoPalakiko {
+    position: relative;
+    font-size: 90%;
+    top: 9px; 
+    left: 0px;
+    text-align: center;
+}
+
+div.container9 {
+    position:relative;
+    background-color: green;
+    width: 250px;
+    height: 150px;
+    top: -130px;
+    left: 395px;
+    border-style: double;
+}
+
+div.ZackBell {
+    position: relative;
+    font-size: 100%;
+    top: 0px; 
+    left: 0px;
+    text-align: center;
+}
